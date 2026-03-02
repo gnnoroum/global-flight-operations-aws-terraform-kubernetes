@@ -79,6 +79,9 @@ An Amazon EKS cluster was deployed with managed worker nodes hosting containeriz
 
 ---
 
+---
+Project deployment complete 
+
 ### Live Application Validation
 
 **Nginx Application Accessible via External Endpoint**
