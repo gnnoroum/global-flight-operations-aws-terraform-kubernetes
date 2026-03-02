@@ -10,13 +10,13 @@ An Amazon EKS cluster was deployed with managed worker nodes hosting containeriz
 ## Deployment Verification
 
 ### Kubernetes Pods Running
-(Add screenshot here)
+![Kubernetes Pods Running](screenshots/09-kubernetes-pods-running.png)
 
 ### LoadBalancer Service
-(Add screenshot here)
+![LoadBalancer Service](screenshots/10-kubernetes-service-loadbalancer.png)
 
 ### Public Application Endpoint
-(Add nginx webpage screenshot here)
+![Public Application Endpoint](screenshots/11-nginx-live-endpoint.png)
 
 ## Technologies Used
 - AWS EKS
